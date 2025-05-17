@@ -47,8 +47,10 @@ device_mac = "12:22:33:34:66:89"
 2、具体操作参见虾哥的手册：https://ccnphfhqs21z.feishu.cn/wiki/F5krwD16viZoF0kKkvDcrZNYnhb
 
 # ESP32S3 硬件版本
+![微信图片_20250517173026](https://github.com/user-attachments/assets/e03f8571-849d-4d50-adfd-8043f8c684ef)
 
 https://item.taobao.com/item.htm?ft=t&id=921351525703
+
 
 # python客户端-udp协议版本
 
